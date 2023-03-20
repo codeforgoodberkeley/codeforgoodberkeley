@@ -1,7 +1,4 @@
-👋 Hi, we are @codeforgoodberkeley, the official github for the Code For Good coding club at UC Berkeley
-👀 We are working to support non-profit organizations with technology solutions to help bring positive change in our communities
-💞️ We design, plan, and build ambitious new coding projects every semester
-📫 Check us out at https://codeforgoodberkeley.github.io/
+👋 Hi, we are @codeforgoodberkeley, the official GitHub for the Code For Good coding club at UC Berkeley. We are working to support non-profit organizations with technology solutions to help bring positive change in our communities. We design, plan, and build ambitious new coding projects every semester. Check us out at https://codeforgoodberkeley.github.io/
 
 <!---
 codeforgoodberkeley/codeforgoodberkeley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
